@@ -1,0 +1,7 @@
+# Force actual 404 errors for missing repo database files so Sileo falls back to plain Packages
+/repo/Packages.zst  -  404
+/repo/Packages.gz   -  404
+/repo/Packages.bz2  -  404
+
+# Fallback to your main repo interface
+/* /repo/index.html  200

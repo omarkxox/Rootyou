@@ -6,4 +6,4 @@ Codename: rootyou
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Tweaks for Rootless and RootHide jailbreaks.
-Icon: https://rootyou.pages.dev/repo/images/icon.png
+icon: https://rootyou.pages.dev/repo/images/icon.png

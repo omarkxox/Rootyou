@@ -1,0 +1,9 @@
+Origin: Rootyou Repo
+Label: Rootyou
+Suite: stable
+Version: 1.0.0
+Codename: rootyou
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Tweaks for Rootless and RootHide jailbreaks.
+Icon: https://rootyou.pages.dev/repo/images/icon.png

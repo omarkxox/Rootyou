@@ -1,0 +1,21 @@
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: Debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 2500472
+MD5sum: 94bf2ebea38726bb17b0a8bc15565b5c
+SHA1: 7b0f05bf10b8e79d4ff6a942942b7923f970abe4
+SHA256: 1e72ccbd1cbd6bc2fe06c9f5b16c5d306eb0d34ed14ce9ae832e6f0c4d632c9b
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Name: iCleaner Pro
+
